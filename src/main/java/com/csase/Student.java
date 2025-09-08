@@ -13,10 +13,10 @@ public class Student {
     /*
      * Sets study planner and scanner
      */
-    public Student {
+    public Student (
         planner = new StudyPlanner();
         scanner = new Scanner(System.in);
-    }
+    )
     
     /*
      * Gets the student's choice and runs it until the student exits
